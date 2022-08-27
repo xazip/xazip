@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://github.com/xazip/xazip/blob/main/github_profile/this_is_us_5x" style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;">
 
 <img src="https://github.com/xazip/xazip/blob/main/github_profile/Steps_flood_fill.PNG" style="float: left; width: 100%; margin-right: 1%; margin-bottom: 0.5em;">
 
